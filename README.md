@@ -7,5 +7,6 @@ Segue o link: https://www.canva.com/design/DAGfZh7ejBw/alsEcveMfq0Embdn99xlFw/ed
 Segue o link: https://github.com/moises-oliveiraa/Inform-tica/blob/main/Aula%20-%20gr%C3%A1fico%20de%20custos%20mensais.xlsx
 ![Captura de tela 2025-03-20 210710](https://github.com/user-attachments/assets/bb29c9a7-1ef8-4043-b91e-7c61bac802ed)
 ## Terceira atividade: Controle de alunos 
-Segue o link: 
+Segue o link: https://github.com/moises-oliveiraa/Inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade.xlsx
 ![Captura de tela 2025-03-20 211626](https://github.com/user-attachments/assets/01ebbe0f-5c74-49c9-8e6f-57b974dfbf6b)
+## Quarta atividade : Power Bi
