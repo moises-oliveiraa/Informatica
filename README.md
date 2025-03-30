@@ -10,3 +10,6 @@ Segue o link: https://github.com/moises-oliveiraa/Inform-tica/blob/main/Aula%20-
 Segue o link: https://github.com/moises-oliveiraa/Inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade.xlsx
 ![Captura de tela 2025-03-20 211626](https://github.com/user-attachments/assets/01ebbe0f-5c74-49c9-8e6f-57b974dfbf6b)
 ## Quarta atividade : Power Bi
+Segue o link:
+![image](https://github.com/user-attachments/assets/eaf6a843-d3a8-4aab-9131-9a95bd5e2d28)
+
