@@ -18,18 +18,31 @@ https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!JCR2fElAB0
 ![Captura de tela 2025-04-08 213858](https://github.com/user-attachments/assets/70186ce6-d75b-439d-b574-80dab548ca4c)
 ![Captura de tela 2025-04-08 222238](https://github.com/user-attachments/assets/1b131337-287f-442d-8c2f-8300ff6a6ff1)
 ## Sexta atividade: Excel e Google Colab
+## Venda de Sorvete
 segue o link:https://github.com/moises-oliveiraa/Informatica/blob/main/Ice%20Cream%20-%20Mois%C3%A9s.xlsx
 ![image](https://github.com/user-attachments/assets/e96c940a-23cc-482d-9d5e-a9ac2a10be24)
 Colab: https://github.com/moises-oliveiraa/Informatica/blob/main/GPI_sorvete%20-%20Mois%C3%A9s.ipynb
 ![image](https://github.com/user-attachments/assets/c6affe04-a181-4bf4-92bd-949a98e7f31d)
 
-## Cerveja
+## Consumo de cerveja
 Segue o link:https://github.com/moises-oliveiraa/Informatica/blob/main/Consumo_cerveja%20-%20Mois%C3%A9s.xlsx
 ![image](https://github.com/user-attachments/assets/327f287a-ba6a-4d0f-bf81-ce93d8184632)
 Colab: https://github.com/moises-oliveiraa/Informatica/blob/main/cerveja%20-%20Mois%C3%A9s.ipynb
 ![image](https://github.com/user-attachments/assets/248ced72-fb28-41bd-814e-573b048072d1)
 ```
+Eu usaria o modelo em Python, pelas seguintes razões:
+✅ Precisão e controle sobre o modelo: permite avaliar o desempenho com mais métricas.
+✅ ideal para conjuntos de dados maiores ou mais complexos.
+✅ Automação: você pode automatizar testes e previsões.
+✅ Melhor interpretação de resultados: gráficos e testes estatísticos mais avançados.
+O Excel pode ser útil para visualizações rápidas e análises exploratórias simples, especialmente para quem tem pouca familiaridade com programação. Mas para uma análise mais robusta e previsões confiáveis, Python é a melhor escolha.
+Ambos os modelos utilizam diferentes abordagens e bibliotecas para análise e previsão. A escolha entre eles depende do objetivo específico: análise estatística detalhada ou construção de modelos preditivos.
 
 ```
+## Venda de casas
+Segue o link: 
+![image](https://github.com/user-attachments/assets/7ee35ba9-65f5-446e-90bf-e6e927f2ff33)
+
+
 
 
