@@ -17,3 +17,7 @@ Segue os links: https://fatecspgov-my.sharepoint.com/:x:/r/personal/moises_souza
 https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!JCR2fElAB0-xxT9GItF1_xHIrVi3GtpDl3F5teVbQRmN0hMusYYJTomu8vIXp07R&itemId=016FTDQZTRSTHLDSO5K5FZ5JCZU6PTGXLQ
 ![Captura de tela 2025-04-08 213858](https://github.com/user-attachments/assets/70186ce6-d75b-439d-b574-80dab548ca4c)
 ![Captura de tela 2025-04-08 222238](https://github.com/user-attachments/assets/1b131337-287f-442d-8c2f-8300ff6a6ff1)
+## Sexta atividade: Excel e Google Colab
+segue o link:
+![image](https://github.com/user-attachments/assets/e96c940a-23cc-482d-9d5e-a9ac2a10be24)
+
