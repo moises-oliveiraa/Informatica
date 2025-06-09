@@ -40,13 +40,16 @@ Ambos os modelos utilizam diferentes abordagens e bibliotecas para análise e pr
 
 ```
 ## Venda de casas
-Segue o link: 
+Segue o link: https://github.com/moises-oliveiraa/Informatica/blob/main/venda%20de%20casas%20-%20Mois%C3%A9s.xlsx
 ![image](https://github.com/user-attachments/assets/4c1aa2b2-7765-4bc3-983a-52a710f610a1)
 
 Segue o link: https://github.com/moises-oliveiraa/Informatica/blob/main/Colab%20-%20Venda%20de%20casas.ipynb
 ![image](https://github.com/user-attachments/assets/7ee35ba9-65f5-446e-90bf-e6e927f2ff33)
 
-```
+## Sétima atividade: Excel Panela Sorvete
+Segue o link: 
+![image](https://github.com/user-attachments/assets/d58d04e2-8115-4b41-8bb9-e3da1770afc2)
+
 
 
 
