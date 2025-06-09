@@ -24,8 +24,11 @@ Colab: https://github.com/moises-oliveiraa/Informatica/blob/main/GPI_sorvete%20-
 ![image](https://github.com/user-attachments/assets/c6affe04-a181-4bf4-92bd-949a98e7f31d)
 
 ## Cerveja
-Segue o link:
+Segue o link:https://github.com/moises-oliveiraa/Informatica/blob/main/Consumo_cerveja%20-%20Mois%C3%A9s.xlsx
 ![image](https://github.com/user-attachments/assets/327f287a-ba6a-4d0f-bf81-ce93d8184632)
+Colab: 
+![image](https://github.com/user-attachments/assets/248ced72-fb28-41bd-814e-573b048072d1)
+
 
 
 
