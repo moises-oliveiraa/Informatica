@@ -46,9 +46,16 @@ Segue o link: https://github.com/moises-oliveiraa/Informatica/blob/main/venda%20
 Segue o link: https://github.com/moises-oliveiraa/Informatica/blob/main/Colab%20-%20Venda%20de%20casas.ipynb
 ![image](https://github.com/user-attachments/assets/7ee35ba9-65f5-446e-90bf-e6e927f2ff33)
 
-## Sétima atividade: Excel Panela Sorvete
-Segue o link: 
+## Sétima atividade: Planilha de custos
+## Excel Panela Sorvete
+Segue o link: https://github.com/moises-oliveiraa/Informatica/blob/main/Graf_K_panela_sorvetes_produtos.xlsx%20-%20Mois%C3%A9s.xlsx
 ![image](https://github.com/user-attachments/assets/d58d04e2-8115-4b41-8bb9-e3da1770afc2)
+
+## Sandálias e Computador
+Segue o link:
+![image](https://github.com/user-attachments/assets/870ca1c8-c024-4b2a-9a45-1dab47af1233)
+![image](https://github.com/user-attachments/assets/1b941b28-4d94-42ab-9ae5-aa23f0d5ab32)
+
 
 
 
