@@ -20,10 +20,12 @@ https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!JCR2fElAB0
 ## Sexta atividade: Excel e Google Colab
 segue o link:https://github.com/moises-oliveiraa/Informatica/blob/main/Ice%20Cream%20-%20Mois%C3%A9s.xlsx
 ![image](https://github.com/user-attachments/assets/e96c940a-23cc-482d-9d5e-a9ac2a10be24)
-Colab: 
+Colab: https://github.com/moises-oliveiraa/Informatica/blob/main/GPI_sorvete%20-%20Mois%C3%A9s.ipynb
 ![image](https://github.com/user-attachments/assets/c6affe04-a181-4bf4-92bd-949a98e7f31d)
 
 ## Cerveja
 Segue o link:
+![image](https://github.com/user-attachments/assets/327f287a-ba6a-4d0f-bf81-ce93d8184632)
+
 
 
