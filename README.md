@@ -41,8 +41,12 @@ Ambos os modelos utilizam diferentes abordagens e bibliotecas para análise e pr
 ```
 ## Venda de casas
 Segue o link: 
+![image](https://github.com/user-attachments/assets/4c1aa2b2-7765-4bc3-983a-52a710f610a1)
+
+Segue o link: https://github.com/moises-oliveiraa/Informatica/blob/main/Colab%20-%20Venda%20de%20casas.ipynb
 ![image](https://github.com/user-attachments/assets/7ee35ba9-65f5-446e-90bf-e6e927f2ff33)
 
+```
 
 
 
