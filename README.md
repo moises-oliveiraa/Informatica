@@ -56,6 +56,9 @@ Segue o link: https://github.com/moises-oliveiraa/Informatica/blob/main/Graf_K_s
 ![image](https://github.com/user-attachments/assets/870ca1c8-c024-4b2a-9a45-1dab47af1233)
 ![image](https://github.com/user-attachments/assets/1b941b28-4d94-42ab-9ae5-aa23f0d5ab32)
 
+## Oitava Atividade: Power Automate e Power Apps
+segue o link: 
+![Captura de tela 2025-06-12 205853](https://github.com/user-attachments/assets/57e7566c-3e31-4605-9de7-5af029959d72)
 
 
 
