@@ -63,7 +63,12 @@ https://github.com/moises-oliveiraa/Informatica/blob/main/Grava%C3%A7%C3%A3o%20d
 ![Captura de tela 2025-06-12 205853](https://github.com/user-attachments/assets/57e7566c-3e31-4605-9de7-5af029959d72)
 
 ## Power Apps
-Segue o link:
+Segue o link: https://github.com/moises-oliveiraa/Informatica/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202025-06-16%20194835.mp4
+![Captura de tela 2025-06-16 194308](https://github.com/user-attachments/assets/ced11736-3c79-4b30-b725-2af50365f67f)
+![Captura de tela 2025-06-16 194909](https://github.com/user-attachments/assets/a28b6f45-05f3-44b0-a621-25411f341cf8)
+
+
+
 
 
 
