@@ -67,6 +67,9 @@ Segue o link: https://github.com/moises-oliveiraa/Informatica/blob/main/Grava%C3
 ![Captura de tela 2025-06-16 194308](https://github.com/user-attachments/assets/ced11736-3c79-4b30-b725-2af50365f67f)
 ![Captura de tela 2025-06-16 194909](https://github.com/user-attachments/assets/a28b6f45-05f3-44b0-a621-25411f341cf8)
 
+## Prova Informática - Dashboard Power BI
+Segue o link:
+![image](https://github.com/user-attachments/assets/5469a244-17f3-4e64-9dcf-58f04a553d10)
 
 
 
